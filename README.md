@@ -1,10 +1,8 @@
-# Excel-Based Sales Dashboard – SuperMart Analysis 📊
+# Excel-Based Sales Dashboard – SuperMart Analysis
 
 This project is a complete data analysis solution in Microsoft Excel for a fictional SuperMart retail dataset. It showcases core Excel skills from data cleaning to dashboard creation.
 
----
-
-## 🔍 Project Highlights
+## Project Highlights
 
 - ✅ Data Cleaning (Remove Duplicates, Blanks, Normalize Text)
 - ✅ KPI Calculations (Total Sales, Avg Order, Repeat Customers)
@@ -13,9 +11,7 @@ This project is a complete data analysis solution in Microsoft Excel for a ficti
 - ✅ Conditional Formatting
 - ✅ Excel Tables, Named Ranges, Dynamic Headings
 
----
-
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Excel Formulas (IF, COUNTIFS, SUMIFS, etc.)
 - PivotTables & Slicers
@@ -23,9 +19,7 @@ This project is a complete data analysis solution in Microsoft Excel for a ficti
 - Dashboard Design
 - Data Validation
 
----
-
-## ⚙️ Tools Used
+## Tools Used
 
 - Microsoft Excel 2019 (Home & Student)
 
